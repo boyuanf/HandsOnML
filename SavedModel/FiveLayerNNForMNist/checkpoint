@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Boyuan\\MyPython\\SavedModel\\FiveLayerNNForMNist\\my_model_final.ckpt"
+all_model_checkpoint_paths: "C:\\Boyuan\\MyPython\\SavedModel\\FiveLayerNNForMNist\\my_model_final.ckpt"
